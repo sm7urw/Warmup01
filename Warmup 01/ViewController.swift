@@ -8,7 +8,7 @@
 
 import UIKit
 
-Test
+let test = Henrik
 
 class ViewController: UIViewController {
 
