@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B5F17AEDA3F6FD21D1C8D4A3DBCA9D8B3FE97F67",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5F17AEDA3F6FD21D1C8D4A3DBCA9D8B3FE97F67" : 0,
+    "74F4214C8B88214EE7671881F7B6CD4F4B7B76CB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "484F8608-24C2-4D21-B1B4-72ED5EB741E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5F17AEDA3F6FD21D1C8D4A3DBCA9D8B3FE97F67" : "Warmup%2001\/",
+    "74F4214C8B88214EE7671881F7B6CD4F4B7B76CB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Warmup 01",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Warmup 01.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sm7urw\/Warmup01.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74F4214C8B88214EE7671881F7B6CD4F4B7B76CB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sm7urw\/Warmup01.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5F17AEDA3F6FD21D1C8D4A3DBCA9D8B3FE97F67"
+    }
+  ]
+}
